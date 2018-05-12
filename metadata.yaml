@@ -1,0 +1,32 @@
+_repo: Les-Tourelles-volume-IHistoire-des-ch-teaux-de-France_39512
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39512-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Gozlan, Léon
+    alias: Gozlan, Leon
+    birthdate: 1803
+    deathdate: 1866
+    gutenberg_agent_id: '39323'
+    url: http://www.gutenberg.org/2009/agents/39323
+    wikipedia:
+    - http://en.wikipedia.org/wiki/L%C3%A9on_Gozlan
+    - http://fr.wikipedia.org/wiki/L%C3%A9on_Gozlan
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2012-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39512'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Castles -- France'
+- !lcc 'DC'
+title: 'Les Tourelles: Histoire des châteaux de France, volume I'
+url: http://www.gutenberg.org/ebooks/39512
